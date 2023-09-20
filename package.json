@@ -1,0 +1,23 @@
+{
+  "name": "asteroids",
+  "version": "1.0.0",
+  "description": "An Asteroid Game",
+  "scripts": {
+    "start": "webpack --watch --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janirac/Asteroids.git"
+  },
+  "keywords": [],
+  "author": "Janira Crispin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janirac/Asteroids/issues"
+  },
+  "homepage": "https://github.com/janirac/Asteroids#readme",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
